@@ -1,3 +1,8 @@
+# Blogging Website
+
+Made using react + vite.
+
+
 To start project run following command:
 ```
 npm run dev
